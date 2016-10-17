@@ -1,1 +1,7 @@
-Test
+Title: 
+
+Game type: 2D platform side scrolling shooter. 
+
+Game design: Camera angle will move up as enemies spawn and difficulty increases. As well as randomly moving camera to left and right.
+
+Theme: 
