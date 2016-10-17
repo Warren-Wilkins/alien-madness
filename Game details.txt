@@ -1,7 +1,17 @@
 Title: 
 
-Game type: 2D platform side scrolling shooter. 
+Game type: 
+- 2D platform side scrolling shooter. 
 
-Game design: Camera angle will move up as enemies spawn and difficulty increases. As well as randomly moving camera to left and right.
+Game design: 
+- Camera angle will move up as enemies spawn and difficulty increases. 
+- As well as randomly moving camera to left and right. 
+- Different sized platforms and different positions for platforms. Player will have to make sure not to fall off of platforms. 
+- Game will be very challenging.
+- Game theme will change as time passes. Random themes selected every minute.
+- Main character is an astronaut.
+- Enemies will be aliens that are randomly spawned at the top of the screen and drop down. Occassionaly there will be a spawn on the left and right side of the screen.
 
-Theme: 
+Themes: 
+- Underwater theme. Aliens will be water themed.
+- 
