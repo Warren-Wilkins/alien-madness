@@ -1,2 +1,3 @@
-# warren-liam-game
-A game being created by Warren Wilkins and Liam Davis
+# Alien Madness
+
+A game created by Warren Wilkins, Liam Davis, and Michael Dolan.
