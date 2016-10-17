@@ -11,7 +11,12 @@ Game design:
 - Game theme will change as time passes. Random themes selected every minute.
 - Main character is an astronaut.
 - Enemies will be aliens that are randomly spawned at the top of the screen and drop down. Occassionaly there will be a spawn on the left and right side of the screen.
+- At the end of each zone will be a zone boss. After each zone boss has been defeated, the screen will go black, display stats and change to next zone.
+- After all easy zones are completed, the level will change to a new difficulty. 
 
-Themes: 
+Zones: 
 - Underwater theme. Aliens will be water themed.
+- Sky zone / Air theme.
+- Jungle zone.
 - 
+- Space zone.
